@@ -1,1 +1,3 @@
-# privage-partner-foodland
+# Privage Partner Desktop
+
+Foodland Deployment
